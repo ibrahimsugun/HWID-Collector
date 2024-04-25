@@ -66,3 +66,11 @@ Betiğimiz aşağıdaki bilgileri toplar:
 - Bu betik, **Windows** işletim sistemlerinde çalışacak şekilde tasarlanmıştır.
 - Oluşturulan **"HWID_info.txt"** dosyası, betiği çalıştırdığınız klasöre kaydedilecektir.
 - Bu bilgileri hata giderme, envanter yönetimi veya genel sistem bilgisi amaçları için kullanabilirsiniz.
+
+## Support My Work
+
+If you find the HWID Collector useful and would like to support my efforts in developing more tools like this, consider buying me a coffee! Your support is greatly appreciated and helps keep the project alive and improving.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/generic-logo.png)](https://buymeacoffee.com/ibrahimsugun/e/247894)
+
+Click the image above to donate via BuyMeACoffee. Thank you for your support!
