@@ -71,6 +71,6 @@ Betiğimiz aşağıdaki bilgileri toplar:
 
 If you find the HWID Collector useful and would like to support my efforts in developing more tools like this, consider buying me a coffee! Your support is greatly appreciated and helps keep the project alive and improving.
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/generic-logo.png)](https://buymeacoffee.com/ibrahimsugun/e/247894)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/ibrahimsugun/e/247894)
 
 Click the image above to donate via BuyMeACoffee. Thank you for your support!
